@@ -9,7 +9,7 @@ public class Main {
         Connection connection = null;
         String JdbcUrl ="jdbc:mysql://localhost/world?"+"autoReconnect=true&useSSL=false";
         String username = "root";
-        String password = "Abesnot1!";
+        String password = "";
 
         try
         {
